@@ -3,15 +3,12 @@
 
  
 ## How to install
-### 1. Download this repository as zip
-
-![image](https://github.com/AioiLight/AL-SameFolderStructre/assets/14235706/645db8bc-02c6-485d-b4db-d82e5c7bc4de)
-
-### 2. Extract the zip file
+1. Download the [last release](https://github.com/AioiLight/AL-SameFolderStructre/releases) from GitHub.
+2. Extract the zip file
 
 ![image](https://github.com/AioiLight/AL-SameFolderStructre/assets/14235706/a315c807-be9e-4465-866c-176bdccaa8dc)
 
-### 3. Import the plugin into Lightroom with `File` > `Plug-in Manager...`, click on `Add`, locate and select the extracted folder, then validate
+3. Import the plugin into Lightroom with `File` > `Plug-in Manager...`, click on `Add`, locate and select the extracted folder, then validate
 
 ![image](https://github.com/AioiLight/AL-SameFolderStructre/assets/14235706/9a75fdb3-a221-4ae9-be10-06773ab9f08c)
 ![image](https://github.com/AioiLight/AL-SameFolderStructre/assets/14235706/3ebd4f10-c897-4122-b15b-9afd6f5a21c2)
